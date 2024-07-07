@@ -1,0 +1,10 @@
+Server/Debug/
+Server/Release/
+Server/x64/Debug/
+Server/x64/Release/
+Server/.vs
+Client/Debug/
+Client/Release/
+Client/x64/Debug/
+Client/x64/Release/
+Client/.vs
